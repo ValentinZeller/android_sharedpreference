@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PersistanceDonnee</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="mdp">Mot de passe</string>
+    <string name="valider">Valider</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="telephone">Téléphone</string>
+    <string name="nombre_d_utilisation">Nombre d\'utilisation :</string>
+    <string name="defaultvalue_compteur">0</string>
+</resources>
